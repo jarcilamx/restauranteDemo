@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:href": {
+            "context": "a"
+        },
+        "xml:ns": {
+            "context": "html"
+        }
+    }
+}
